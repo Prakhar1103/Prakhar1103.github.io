@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## My experiments with ASR
 
-You can use the [editor on GitHub](https://github.com/Prakhar1103/Prakhar1103.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This blog is dedicated to demonstrating some rather unconventional experiments which I try to do with my limited knowledge of modern Automatic Speech Recognition systems. I would like to know how people working in this area react to these experiments and hence would love to hear about any flaws or areas of improvement.
 
 ### Markdown
 
