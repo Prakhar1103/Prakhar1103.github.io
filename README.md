@@ -2,9 +2,9 @@
 
 This blog is dedicated to demonstrating some rather unconventional experiments which I try to do with my limited knowledge of modern Automatic Speech Recognition systems. I would like to know how people working in this area react to these experiments and hence would love to hear about any flaws or areas of improvement.
 
-### Markdown
+### About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is Prakhar Swarup and I currently work at a reputable MNC (whose name I will not reveal intentionally!) in Hyderabad, India. I studied Automatic Speech Recognition during my Master's Thesis work at IIT Bombay and since then have been fascinated by it. In order to satisfy my curiosity, I tend to tinker around with some freely available speech datasets. Some interesting results of my tinkering can be found on this blog. Enjoy!!
 
 ```markdown
 Syntax highlighted code block
